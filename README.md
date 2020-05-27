@@ -32,3 +32,7 @@ Dataset represent 2 years worth of engagement here.Actually, dataset is of 2.5 y
 We are using 4 layer model including input and output layers. Both hidden layer usses relu as activation fcution and output layer uses softmax function. We are using Adam as optimizer and sparse categorical cross entropy as loss(cost) function, it uses one-hot encoding.
 
 Here We are using early stopping mechanism to avoid overfitting,i.e, callback function of tensorflow.We will obtain accuracy of more than 90%.
+
+4)ANN_fashion_MNIST- Artificial Neural Network(ANN) model, classifying images into 10 categories and getting 85% above accuracy.
+link to dataset- https://www.kaggle.com/zalando-research/fashionmnist.
+files asscociated with it- fashio_model.h5 and fashion_model.json
