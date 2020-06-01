@@ -36,3 +36,5 @@ Here We are using early stopping mechanism to avoid overfitting,i.e, callback fu
 4)ANN_fashion_MNIST- Artificial Neural Network(ANN) model, classifying images into 10 categories and getting 85% above accuracy.
 link to dataset- https://www.kaggle.com/zalando-research/fashionmnist.
 files asscociated with it- fashio_model.h5 and fashion_model.json
+
+5)CNN_Cifar10- Convolution Neural Network on standard Cifar10 dataset and classifying into 10 classes- airplane, birds, automobile, cat, deer, dog, frog, horse, ship, truck. It has obtained 72%+ test accuracy. We can do various changes and improve it further plus we sav save and use the model.
